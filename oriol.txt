@@ -5,4 +5,4 @@ hola Jordi
 que bo!
 
 //Jo posaré aquí altres coses
-....
+Aquest text l'ha posat Oriol
