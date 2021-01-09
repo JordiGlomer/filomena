@@ -2,7 +2,7 @@ hola Jordi
 
 //Posa qui el que vulguis
 ...
-
+que bo!
 
 //Jo posaré aquí altres coses
 ....
